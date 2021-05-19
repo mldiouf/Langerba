@@ -1,0 +1,9 @@
+
+ @media screen and (max-width: 500px) {
+   #photo{
+       width: 300px;
+   }
+   #photob{
+    width: 200px;
+}
+  }
